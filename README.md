@@ -1,2 +1,1 @@
-# FACE-DETECTION-USING-PYTHON
-Face Detection using OpenCV
+# Face Detection using OpenCV
